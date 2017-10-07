@@ -7,14 +7,14 @@ title: Jianfeng's Blog
 subtitle:
 description:
 author: Jianfeng Chen
-language: English
+language: en
 timezone: America/New_York
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.jfchen.us
+url: http://blog.jianfeng.us
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:title/
 permalink_defaults:
 
 # Directory
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -80,3 +80,14 @@ deploy:
   type: git
   repo: https://github.com/Ginfung/ginfung.github.io.git 
   ranch: master
+
+creative_commons: by-nc-sa
+
+# Social links
+social:
+  Homepage: http://jianfeng.us
+  Resume/CV: http://www4.ncsu.edu/~jchen37/resume.pdf
+  GitHub: https://github.com/ginfung
+  E-Mail: mailto:jchen37@ncsu.edu
+  Linkedin: https://www.linkedin.com/in/jianfengcs/
+  Facebook: https://www.facebook.com/chenjiannfeng
