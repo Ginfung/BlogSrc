@@ -331,7 +331,7 @@
        {% if not is_index %}
           <ul class="post-copyright">
             <li class="post-copyright-author">
-              This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA-4.0 License</a>.
+              This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA-4.0 License</a>, including custom images & stylesheets. Permissions beyond the scope of this license may be available at <a href="mailto:jchen37@ncsu.edu" rel="external nofollow" target="_blank">@jianfeng</a>.
             </li>
             <li class="post-copyright-author">
                 <strong>本文作者：</strong> 陈建锋
@@ -342,7 +342,7 @@
             </li>
             <li class="post-copyright-license">
               <strong>版权声明： </strong>
-              本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="external nofollow" target="_blank">署名-非商业性使用-相同方式共享 4.0 国际</a> 许可协议。转载请注明出处并保留以上声明信息。
+              本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="external nofollow" target="_blank">署名-非商业性使用-相同方式共享 4.0 国际</a> 许可协议。转载请注明出处并保留以上声明信息或<a href="mailto:jchen37@ncsu.edu" rel="external nofollow" target="_blank">联系我</a>。
             </li>
           </ul>
         {% endif %}
