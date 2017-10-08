@@ -107,7 +107,7 @@ social_icons:
   GitHub: github
   E-Mail: envelope
   Homepage: home
-  Resume/CV: file-pdf-o
+  Resume: file-pdf-o
   Google: google
   Linkedin: linkedin
   Slideshare: fa-slideshare
@@ -182,7 +182,7 @@ sidebar:
 # ---------------------------------------------------------------
 
 # Automatically scroll page to section which is under <!-- more --> mark.
-scroll_to_more: true
+scroll_to_more: false
 
 # Automatically saving scroll position on each post/page in cookies.
 save_scroll: false
@@ -285,8 +285,8 @@ font:
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
-    external: true
-    family:
+    external:
+    family: Georgia
 
   # Font settings for Logo
   # Fallback to `global` font settings.
