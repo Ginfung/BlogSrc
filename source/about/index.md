@@ -13,7 +13,7 @@ Jianfeng received B.Eng. of Computer Science from [Shandong University](https://
 
 ## This Blog
 
-Some of my friends keep asking me what I am doing in recent years. My answer is always the “exploring Artificial Intelligence and Software Engineering synergies”. When it comes to automated software engineering, machine learning, etc., some of them even challenge me “are you trying to [kill our (programmer’s) jobs](https://qz.com/920468/artificial-intelligence-created-by-microsoft-and-university-of-cambridge-is-learning-to-write-code-by-itself-not-steal-it/)?!” This blog is trying to detail my research focus and answer these questions.
+Some of my friends keep asking me what I am doing in recent years. My answer is always the “exploring Artificial Intelligence and Software Engineering synergies”. When it comes to automated software engineering, machine learning, etc., they might be puzzled. Some of them even challenge me “are you trying to [kill our (programmer’s) jobs](https://qz.com/920468/artificial-intelligence-created-by-microsoft-and-university-of-cambridge-is-learning-to-write-code-by-itself-not-steal-it/)?!” This blog is trying to detail my research focus and answer these questions.
 
 This blog is not excerpting keynotes from my publications or research proposals. Instead, it discloses the ideas, inspirations and discoveries during my research or daily reading, including, but not limited to 
 
