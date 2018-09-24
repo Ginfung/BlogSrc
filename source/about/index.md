@@ -33,4 +33,4 @@ I am very happy to discuss or answer any questions. Best way to contact me is vi
 - [Google Scholar](https://scholar.google.com/citations?user=StXI8uQAAAAJ&hl=en)
 - [GitHub](https://github.com/ginfung)
 - [Linkedin](https://www.linkedin.com/in/jianfengcs/)
-- [Facebook](https://www.facebook.com/chenjiannfeng)
+- [Facebook](https://www.facebook.com/jfchen1992)
